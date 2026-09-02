@@ -9,7 +9,8 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: #E6D6FF;
+
+  background: #E6F4EA;
 }
 
 .login-card {
